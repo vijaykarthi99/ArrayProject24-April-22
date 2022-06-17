@@ -6,7 +6,7 @@ public class OneDymanicalArray {
 
 		int a[][] = new int[2][4];
 		a[0][0] = 10;
-		a[0][1] = 20;
+		a[0][1] = 12;
 		a[0][2] = 30;
 		a[0][3] = 20;
 		a[1][0] = 20;
@@ -33,7 +33,11 @@ public class OneDymanicalArray {
 			}
 			
 		}
-		
+		System.out.println("***************************");
+
+		String a1 =null;
+		System.out.println(a1.length());
+
 
 	}
 
